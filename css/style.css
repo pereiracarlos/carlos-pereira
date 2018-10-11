@@ -1,0 +1,19 @@
+.borda-imagem{
+  border-radius: 5%;
+  border: 7px solid gray;
+}
+
+.posi-centro{
+  text-align:  center;
+}
+
+.img-center{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 10%;
+}
+
+.background{
+  background-color: #ecf0f1;
+}
